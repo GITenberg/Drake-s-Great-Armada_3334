@@ -1,0 +1,28 @@
+_repo: Drake-s-Great-Armada_3334
+_version: 0.0.1
+alternative_title: Summarie and true discourse of Sir Frances Drakes West Indian voyage
+creator:
+  author:
+    agent_name: Bigges, Walter
+    alias: Biggs, Walter
+    deathdate: 1586
+    gutenberg_agent_id: '1184'
+    url: http://www.gutenberg.org/2009/agents/1184
+description: ''
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Explorers -- Great Britain -- Biography'
+- !lcsh 'West Indies Expedition, 1585-1586'
+- !lcc 'E011'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Travel -- West Indies'
+- GITenberg
+title: Drake's Great Armada
+url: http://www.gutenberg.org/ebooks/3334
